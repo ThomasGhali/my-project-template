@@ -1,6 +1,6 @@
 
 # 🛠️ Project Set Up Instructions
-> **Note** it is recommended to [check for packges updates](#updates-check-for-packages)
+> **Note** it is recommended to [check for packges updates](#checking-for-package-updates)
 > 
 Quick start:
 ```bash
@@ -10,7 +10,7 @@ npm start
 ## Table of Contents
 
 1. [Structure](#structure)
-2. [Checking for Package Updates](#updates-check-for-packages)
+2. [Checking for Package Updates](#checking-for-package-updates)
 3. [Important Scripts](#important-scripts)
 4. [Author](#author)
 
