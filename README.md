@@ -14,6 +14,8 @@ npm start
 3. [Important Scripts](#important-scripts)
 4. [Author](#author)
 
+----------
+
 ## Structure
 ```
 📁 src
@@ -32,6 +34,8 @@ npm start
 📄 .gitignore
 ```
 
+------
+
 ## Checking for Package Updates
 
 ### 2.1 Checking for Updates
@@ -45,7 +49,6 @@ npm start
   
   - To see any updates for any package except for the one starting with 'eslint', run: `ncu '/^(?!eslint).*$/'`
 
----
 
 ### 2.2 Applying Updates
 
@@ -62,6 +65,8 @@ npm start
   
 - Use npm ci only when you want to install exact versions from package-lock.json — perfect for CI pipelines or clean environments.
 
+------
+
 ## Important Scripts
 
 - Run `npm run start` to start a dev server.
@@ -73,6 +78,7 @@ npm start
   >
   > - Before using `npm run lint:fix`, review the changes it may apply. It can unintentionally break code, ensure you have a backup.
 
+---------
 
 ## Author
 
