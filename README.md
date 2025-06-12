@@ -72,8 +72,7 @@ npm start
   > **🚨 Critical Reminder**  Regarding `npm run lint:fix`:
   >
   > - Before using `npm run lint:fix`, review the changes it may apply. It can unintentionally break code, ensure you have a backup.
-  >
-  > - Make sure you have a backup for your code.
+
 
 ## Author
 
