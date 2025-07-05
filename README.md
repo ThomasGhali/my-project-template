@@ -10,6 +10,7 @@ npm start
 Finish:
 ```bash
 npm run build
+npm run deploy
 ```
 ## Table of Contents
 
