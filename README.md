@@ -9,7 +9,7 @@ npm start
 ```
 Finish:
 ```bash
-npm build
+npm run build
 ```
 ## Table of Contents
 
