@@ -7,6 +7,10 @@ Quick start:
 npm install
 npm start
 ```
+Finish:
+```bash
+npm build
+```
 ## Table of Contents
 
 1. [Structure](#structure)
